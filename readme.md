@@ -34,8 +34,13 @@
 
 ## About The Project
 
-[Desktop Demo GIF][desktop-demo]
-[Mobile Demo GIF][mobile-demo]
+![Desktop Demo GIF][desktop-demo]
+
+<br />
+
+![Mobile Demo GIF][mobile-demo]
+
+<br />
 
 <!-- GETTING STARTED -->
 
