@@ -22,14 +22,11 @@
   <p align="center">
     Push notificaiton using service worker which works on chrome, edge, and firefox
     <br />
-    <a href="https://github.com/thenabilarta/notification"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://notification.thenabilarta.com">View Demo</a>
     ·
-    <a href="https://github.com/thenabilarta/notification/issues">Report Bug</a>
+    <a href="https://github.com/thenabilarta/push-notification/issues">Report Bug</a>
     ·
-    <a href="https://github.com/thenabilarta/notification/issues">Request Feature</a>
+    <a href="https://github.com/thenabilarta/push-notification/issues">Request Feature</a>
   </p>
 </div>
 
@@ -38,12 +35,7 @@
 ## About The Project
 
 [Desktop Demo GIF][desktop-demo]
-
-<br />
-
 [Mobile Demo GIF][mobile-demo]
-
-<br />
 
 <!-- GETTING STARTED -->
 
@@ -69,7 +61,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Start your react server. For development mode, you'll find sw.js on public folder of your reactapp. It's neccesary because react need to access it for development purposes
+4. Start your react server. For development mode, you'll need sw.js (service worker) on public folder of your reactapp.
    ```sh
    npm start
    ```
@@ -95,7 +87,7 @@ Don't forget to give the project a star! Thanks again!
 
 Nabil Arta - [@mnabilarta](https://twitter.com/mnabilarta) - thenabilarta@gmail.com
 
-Project Link: [notification.thenabilarta.com](notification.thenabilarta.com)
+Project Link: [https://notification.thenabilarta.com](https://notification.thenabilarta.com)
 
 [desktop-demo]: gif/desktop-notification.gif
 [mobile-demo]: gif/mobile-notification.gif
